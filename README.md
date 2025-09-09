@@ -1,4 +1,3 @@
-# lab-ti
 # 🧪 Laboratorio TI Personal — Steve Ayala
 
 Hola 👋, soy Steve, ingeniero en telecomunicaciones aprendiendo administración de sistemas, redes y cloud desde cero.  
